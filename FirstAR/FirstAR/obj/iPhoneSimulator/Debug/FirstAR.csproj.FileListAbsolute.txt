@@ -1,0 +1,12 @@
+/Users/divi/Projects/FirstAR/FirstAR/bin/iPhoneSimulator/Debug/FirstAR.exe
+/Users/divi/Projects/FirstAR/FirstAR/bin/iPhoneSimulator/Debug/FirstAR.pdb
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/FirstAR.csprojAssemblyReference.cache
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/FirstAR.csproj.CoreCompileInputs.cache
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/FirstAR.exe
+/Users/divi/Projects/FirstAR/FirstAR/obj/iPhoneSimulator/Debug/FirstAR.pdb

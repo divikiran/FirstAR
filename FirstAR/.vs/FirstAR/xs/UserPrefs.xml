@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{78286249-2B28-4561-930C-F1AD2B64C1D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstAR/Info.plist">
+    <Files>
+      <File FileName="FirstAR/AppDelegate.cs" Line="31" Column="82" />
+      <File FileName="FirstAR/TestARApp.cs" Line="24" Column="1" />
+      <File FileName="FirstAR/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirstAR PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B390C954-2EFA-4F0F-A4CE-BD489049D5A2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FirstAR>
+</Properties>
